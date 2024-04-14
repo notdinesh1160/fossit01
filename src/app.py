@@ -1,3 +1,7 @@
+"""
+A test python application
+"""
+
 print("Hello there!")
 
 for i in range(2):
